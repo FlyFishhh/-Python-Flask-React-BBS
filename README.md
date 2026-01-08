@@ -5,8 +5,6 @@
 
 **A modern full-stack forum system built with Flask and React, featuring real-time chat, Markdown support, and production-ready deployment**
 
-[Quick Start](#quick-start) · [Deployment Guide](#deployment)
-
 ---
 
 ## 📖 Overview
