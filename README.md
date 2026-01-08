@@ -1,6 +1,6 @@
 # 🚀 Flask + React Forum System
 
-<div align="center">
+<div align="left">
 
 
 **A modern full-stack forum system built with Flask and React, featuring real-time chat, Markdown support, and production-ready deployment**
@@ -597,7 +597,7 @@ Issues and Pull Requests are welcome!
 
 ---
 
-<div align="center">
+<div align="left">
 **⭐ If you find this project helpful, please give it a star!**
 
 Made with ❤️ by Kelly
