@@ -1,9 +1,7 @@
 # 🚀 Flask + React Forum System
 
 <div align="center">
-![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)
-![React](https://img.shields.io/badge/React-16.8.6-blue.svg)
-![Python](https://img.shields.io/badge/Python-3.7+-yellow.svg)
+
 
 **A modern full-stack forum system built with Flask and React, featuring real-time chat, Markdown support, and production-ready deployment**
 
